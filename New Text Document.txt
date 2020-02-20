@@ -1,0 +1,10 @@
+pwd- prints working directory
+cd- change directory
+dir or window or ls for mac
+ls i lists contents of a folder
+al- all list
+d- at the begining is a directory
+~ at the begining is the file
+cd~ - takes us to home directory
+
+to go back to the directory: (cd ~)
